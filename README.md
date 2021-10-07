@@ -1,2 +1,2 @@
 # zombies
-EECS 281 Project 2, focused on learning the internals of priority queues as well as using them
+Project 2 datastructs/algos, focused on learning/implementing the internals of priority queues, as well as using them in an applied setting (zombies game)
